@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution: [Frontend Mentor solution by Michel Moreira]()
-- Live Site: [Github pages]()
+- Solution: [Frontend Mentor solution by Michel Moreira](https://www.frontendmentor.io/solutions/nft-preview-card-component-zW0_Zs88Rp)
+- Live Site: [Github pages](https://michel-moreira.github.io/nft-preview-card-component/)
 
 ## My process
 
