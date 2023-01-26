@@ -91,10 +91,9 @@ main {
   color: var(--paragraph);
   margin-bottom: 2rem;
 }
-/* ----------------------------- */
 
 /* ==============================*/
-.nft-container .price-duration {
+.nft-container .price-days-left {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -102,11 +101,11 @@ main {
   margin-bottom: 2rem;
 }
 /* ----------------------------- */
-.nft-container .price-duration .price {
+.nft-container .price-days-left .price {
   display: flex;
   align-items: center;
 }
-.nft-container .price-duration .price::before {
+.nft-container .price-days-left .price::before {
   content: "";
   background: url(../images/icon-ethereum.svg) no-repeat center;
   display: inline-block;
@@ -115,11 +114,11 @@ main {
   margin-right: 6px;
 }
 /* ----------------------------- */
-.nft-container .price-duration .duration {
+.nft-container .price-days-left .days-left {
   display: flex;
   align-items: center;
 }
-.nft-container .price-duration .duration::before {
+.nft-container .price-days-left .days-left::before {
   content: "";
   background: url(../images/icon-clock.svg) no-repeat center;
   display: inline-block;
